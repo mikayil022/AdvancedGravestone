@@ -1,5 +1,4 @@
 # AdvancedGravestone
-
 Advanced gravestone addon for Minecraft Bedrock Edition with item protection and advanced recovery features.
 
 ## Features
@@ -19,3 +18,9 @@ Mikayil022
 
 ## Copyright
 This project may not be redistributed or reuploaded without permission.
+
+## Feedback & Suggestions
+If you find bugs or have suggestions, feel free to open an issue.
+
+## Contributing
+Suggestions, bug reports, and feedback are welcome.
